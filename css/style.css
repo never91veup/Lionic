@@ -140,7 +140,7 @@ html {
 /* Hero */
 
 .section-hero {
-    background: url('../img/hero.jpg') right center no-repeat white;
+    background: url('../Lionic/img/hero.jpg') right center no-repeat white;
     background-size: contain;
 }
 
@@ -190,7 +190,7 @@ html {
     width: 13px;
     height: 17px;
     margin-right: 10px;
-    background: url('../img/ssl.svg') center center no-repeat transparent;
+    background: url('../Lionic/img/ssl.svg') center center no-repeat transparent;
     background-size: contain;
     transform: translateY(-1px);
 }
@@ -346,15 +346,15 @@ html {
 }
 
 .section-contacts-icon-gps {
-    background-image: url('..//img/gps.png');
+    background-image: url('../Lionic/img/gps.png');
 }
 
 .section-contacts-icon-phone {
-    background-image: url('../img/phone.png');
+    background-image: url('../Lionic/img/phone.png');
 }
 
 .section-contacts-icon-mail {
-    background-image: url('../img/mail.png');
+    background-image: url('../Lionic/img/mail.png');
     background-size: auto 19px;
 }
 
@@ -446,18 +446,18 @@ html {
 .footer-social-icon-twitter {
     width: 18px;
     height: 15px;
-    background-image: url('../img/twitter.svg');
+    background-image: url('../Lionic/img/twitter.svg');
 }
 
 .footer-social-icon-in {
     width: 18px;
     height: 19px;
-    background-image: url('../img/in.svg');
+    background-image: url('../Lionic/img/in.svg');
     transform: translateY(-3px);
 }
 
 .footer-social-icon-mail {
     width: 24px;
     height: 17px;
-    background-image: url('../img/mail.svg');
+    background-image: url('../Lionic/img/mail.svg');
 }
